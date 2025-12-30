@@ -30,4 +30,6 @@ Use class method when :
     You want to modify class variables
     You need alternative constructors
 
-    
+Static = no state
+Class  = class state    
+
