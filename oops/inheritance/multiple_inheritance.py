@@ -8,9 +8,9 @@ class y(x):
         print("In method2 of Y")
 
 # GIVE ERROR
-class z(x,y):
-    def m3(self):
-        print("In method3 of Z")
+# class z(x,y):
+#     def m3(self):
+#         print("In method3 of Z")
 
 
 
